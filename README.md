@@ -9,3 +9,10 @@
 禁止违规传播，版权归原作所有注意，这是个长期项目，只要没有声明，那么说明这个项目还在做。
 转载字幕请勿去除开头声明，本字幕不涉及盈利，禁止私自盈利。不接受任何赞助(谨防有人冒充，凡事要钱的都是假的)，做这个的初衷只是想让兄贵们深入♂了解哲♂学而已。
 注明:这是我本人的GitHub仓库
+
+
+
+谷歌盘（google drive)https://drive.google.com/drive/folders/194MywlnmNdZDKA38MD5M1Nwct7hfpqXJ?usp=drive_link
+百度盘https://pan.baidu.com/s/1DGZ4H3o-PeIkxeKhvAGmQg
+提取码是B1n7
+
