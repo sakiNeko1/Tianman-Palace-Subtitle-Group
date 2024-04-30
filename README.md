@@ -6,10 +6,14 @@
 ![2024-04-30_161403](https://github.com/sakiNeko1/-Tianman-Palace-Subtitle-Group-/assets/167757545/1ed40793-395b-4d37-b66d-30ded1d292b3)
 ![2024-04-30_161436](https://github.com/sakiNeko1/-Tianman-Palace-Subtitle-Group-/assets/167757545/1546f135-b00f-4415-a07a-40fa3796251f)
 
+##字幕信息
+-  这是SRT外挂字幕，这是我们主要的字幕形式。如果你要播放的话
+-  Windows推荐potplayer
+-  Android推荐mx player
 
-
-
-谷歌盘（google drive)[https://drive.google.com/drive/folders/194MywlnmNdZDKA38MD5M1Nwct7hfpqXJ?usp=drive_link](https://drive.google.com/drive/folders/194MywlnmNdZDKA38MD5M1Nwct7hfpqXJ?usp=drive_link)
-百度盘https://pan.baidu.com/s/1DGZ4H3o-PeIkxeKhvAGmQg
-提取码是B1n7
+##如何下载？
+-  谷歌盘（google drive)
+-  https://drive.google.com/drive/folders/194MywlnmNdZDKA38MD5M1Nwct7hfpqXJ?usp=drive_link
+-  百度盘https://pan.baidu.com/s/1DGZ4H3o-PeIkxeKhvAGmQg
+-  提取码是B1n7
 
