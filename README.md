@@ -11,6 +11,9 @@
 -  Windows推荐potplayer
 -  Android推荐mx player
 
+##注意事项！！！！
+-  要下载标有“字幕匹配”字样的视频才能有最佳的观看体验，不然可能出现字幕错误等问题
+
 ##如何下载？
 -  谷歌盘（google drive)
 -  https://drive.google.com/drive/folders/194MywlnmNdZDKA38MD5M1Nwct7hfpqXJ?usp=drive_link
