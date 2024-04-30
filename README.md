@@ -26,3 +26,9 @@
 ##谁在管理？
 - 百度网盘是托管状态
 - github和Google drive都是我本人(neko)管理
+
+
+##想要联系neko？
+-  你可以发送email到sakineko114@gmail.com
+-  请不要发送垃圾邮件！！！！！！！！！！！！！！！！！
+-  欢迎反馈bug等问题，谢谢
