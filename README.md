@@ -17,3 +17,9 @@
 -  百度盘https://pan.baidu.com/s/1DGZ4H3o-PeIkxeKhvAGmQg
 -  提取码是B1n7
 
+##我找不到原片怎么办？(If you don’t have the original video)
+-  你可以访问Google drive链接来下载,里面我们翻译了什么本篇,就上传什么本篇
+
+##谁在管理？
+- 百度网盘是托管状态
+- github和Google drive都是我本人(neko)管理
