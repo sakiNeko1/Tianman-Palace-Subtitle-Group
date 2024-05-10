@@ -17,8 +17,8 @@
 ##如何下载？
 -  谷歌盘（google drive)
 -  https://drive.google.com/drive/folders/194MywlnmNdZDKA38MD5M1Nwct7hfpqXJ?usp=drive_link
--  百度盘https://pan.baidu.com/s/1DGZ4H3o-PeIkxeKhvAGmQg
--  提取码是B1n7
+-  百度盘https://pan.baidu.com/share/init?surl=LnBMLGy5s4MhcCH5TtkEYw
+-  提取码是2819
 
 ##我找不到原片怎么办？(If you don’t have the original video)
 -  你可以访问Google drive链接来下载,里面我们翻译了什么本篇,就上传什么本篇
