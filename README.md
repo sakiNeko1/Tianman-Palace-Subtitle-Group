@@ -2,13 +2,16 @@
 -  这是一个GitHub仓库，天满宫字幕组长期翻译哲学♂本篇,如果你不知道这是什么？可以戳 <a href="https://jump2.bdimg.com/p/9021541534">这里</a>.
 ![c61eafb202ad0bb8cc473aa5701aa3c6b92e4fe7 jpg_240w_240h_1c_1s__web-avatar-space-header](https://github.com/sakiNeko1/Tianman-Palace-Subtitle-Group/assets/167757545/9eeb0a9c-c4e0-432a-a02b-c0ca9039753a)
 
-## 截图   (Screenshot)
+## SRT字幕形式截图   (Screenshot)
 ![2024-04-30_161337](https://github.com/sakiNeko1/-Tianman-Palace-Subtitle-Group-/assets/167757545/2bbe6c68-e6ad-41e7-9730-522ad4d37b63)
 ![2024-04-30_161403](https://github.com/sakiNeko1/-Tianman-Palace-Subtitle-Group-/assets/167757545/1ed40793-395b-4d37-b66d-30ded1d292b3)
 ![2024-04-30_161436](https://github.com/sakiNeko1/-Tianman-Palace-Subtitle-Group-/assets/167757545/1546f135-b00f-4415-a07a-40fa3796251f)
 
+## ASS字幕形式截图 
+![Snipaste_2024-05-21_16-12-52](https://github.com/sakiNeko1/Tianman-Palace-Subtitle-Group/assets/167757545/f03b074a-c578-45b5-a141-5ec951bd0bc0)
+
 ##字幕信息
--  这是SRT外挂字幕，这是我们主要的字幕形式。如果你要播放的话
+-  这是SRT/ASS外挂字幕，这是我们主要的字幕形式。如果你要播放的话
 -  Windows推荐potplayer
 -  Android推荐mx player
 
