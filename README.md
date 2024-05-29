@@ -45,6 +45,5 @@
 
 ##在线播放渠道(Online streaming channels)
 -  bilibili(https://space.bilibili.com/3546675073256096?spm_id_from=333.337.0.0)
--  youtube(https://www.youtube.com/channel/UCL4DF8H8ANwAYsd3JD8lr3Q)
 -  可以在频道里观看我们字幕组翻译的作品，YouTube和哔哩哔哩都是cc字幕
 -  You can watch the works translated by our subtitle group on the channel. Both YouTube and Bilibili have CC subtitles.
