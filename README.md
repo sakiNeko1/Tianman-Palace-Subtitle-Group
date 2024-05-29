@@ -1,3 +1,8 @@
+# 字幕组公告栏
+-  目前处于停更期，恢复时间待定。
+-  目前招不到人翻译，一人当三人用，急需兄贵们的加入
+-  字幕组不会以任何形式收费，请不要恶意宣传字幕组，请警惕骗子和倒卖狗。(已经发现类似情况）
+
 # 天满宫字幕组     (Tianman Palace Subtitle Group)
 -  这是一个GitHub仓库，天满宫字幕组长期翻译哲学♂本篇,如果你不知道这是什么？可以戳 <a href="https://jump2.bdimg.com/p/9021541534">这里</a>.
 ![c61eafb202ad0bb8cc473aa5701aa3c6b92e4fe7 jpg_240w_240h_1c_1s__web-avatar-space-header](https://github.com/sakiNeko1/Tianman-Palace-Subtitle-Group/assets/167757545/9eeb0a9c-c4e0-432a-a02b-c0ca9039753a)
