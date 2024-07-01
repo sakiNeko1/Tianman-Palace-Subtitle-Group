@@ -7,7 +7,9 @@
 
 （声明方式包括但不限于字幕文件内的注释行、Subtitle Staff行等的标识）
 
-基于：https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png知识共享许可协议知识共享 署名-非商业性使用-以相同方式共享 4.0 国际许可协议(Creative Common BY-NC-SA 4.0)。
+
+基于：![88x31](https://github.com/sakiNeko1/Tianman-Palace-Subtitle-Group/assets/167757545/e15e0f3e-9718-4317-a58f-60cd9a0a3e16)
+知识共享许可协议知识共享 署名-非商业性使用-以相同方式共享 4.0 国际许可协议(Creative Common BY-NC-SA 4.0)。
 
 详细说明
 
