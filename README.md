@@ -77,15 +77,14 @@
 ##如何下载？
 -  谷歌盘（google drive)
 -  https://drive.google.com/drive/folders/194MywlnmNdZDKA38MD5M1Nwct7hfpqXJ?usp=drive_link
--  百度盘https://pan.baidu.com/share/init?surl=LnBMLGy5s4MhcCH5TtkEYw
--  提取码是2819
+-  mega盘https://mega.nz/folder/vZciWZhD#qu-kblZgOrYN0acXh-Foig
 
 ##我找不到原片怎么办？(If you don’t have the original video)
--  你可以访问Google drive链接来下载,里面我们翻译了什么本篇,就上传什么本篇
+-  你可以访问链接来下载,里面我们翻译了什么本篇,就上传什么本篇
 
 ##谁在管理？
 - 百度网盘是托管状态
-- github和Google drive都是我本人(neko)管理
+- github,mega和Google drive都是我本人(neko)管理
 
 
 ##想要联系neko？
@@ -95,6 +94,7 @@
 
 
 ##在线播放渠道(Online streaming channels)
--  bilibili(https://space.bilibili.com/3546675073256096?spm_id_from=333.337.0.0)
+-  bilibili(https://space.bilibili.com/3546675073256096)
+-  mfuns(https://www.mfuns.net/member/63723)
 -  可以在频道里观看我们字幕组翻译的作品
 -  You can watch the works translated by our subtitle group on the channel.
