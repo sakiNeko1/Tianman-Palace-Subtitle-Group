@@ -78,6 +78,8 @@
 -  谷歌盘（google drive)
 -  https://drive.google.com/drive/folders/194MywlnmNdZDKA38MD5M1Nwct7hfpqXJ?usp=drive_link
 -  mega盘https://mega.nz/folder/vZciWZhD#qu-kblZgOrYN0acXh-Foig
+-  谷歌盘2号（googel drive）
+-  https://drive.google.com/drive/folders/1FIpfGTN7BKcvxUyIs5bD1AlRI0axC6Vg?usp=drive_link
 
 ##我找不到原片怎么办？(If you don’t have the original video)
 -  你可以访问链接来下载,里面我们翻译了什么本篇,就上传什么本篇
